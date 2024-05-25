@@ -4,7 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science Engineering Student
 --------------------------------
 
-I'm a Data Science Engineering student currently enrolled in the Engineering Cycle at ESSAI, specializing in Statistics, AI and Data Science. 🔍 My journey includes hands-on internships at renowned organizations like Orange Tunisia and Institut Pasteur, where I harnessed the power of data through Python, Power-Bi, and various data analysis packages to provide actionable insights. 📊 I thrive on challenges and have engaged in several academic and competitive projects ranging from predictive models for diamond prices and stroke likelihood to sophisticated time series forecasting of economic indicators. 🛠️ Technical Proficiencies: Languages: Python, Java, C, HTML/CSS, JavaScript, SQL Tools: VS Code, Eclipse, Jupyter, Power BI Concepts: Data Modeling, Visualization, Machine Learning (Supervised & Unsupervised), Time Series Analysis 👥 As the Secretary General of the ESSAI Machine Learning Club and a member of the scientific council, I am deeply involved in community and academic events, continually seeking to foster knowledge exchange and innovation. 📢 Feel free to check out my projects and don't hesitate to connect with me on LinkedIn!
+I'm a Data Science Engineering student currently enrolled in the Engineering Cycle at ESSAI, specializing in Statistics, AI and Data Science. 
+🔍 My journey includes hands-on internships at renowned organizations like Orange Tunisia and Institut Pasteur, where I harnessed the power of data through Python, Power-Bi, and various data analysis packages to provide actionable insights. 
+📊 I thrive on challenges and have engaged in several academic and competitive projects ranging from predictive models for diamond prices and stroke likelihood to sophisticated time series forecasting of economic indicators.
+Concepts: Data Modeling, Visualization, Machine Learning (Supervised & Unsupervised), Time Series Analysis 
+👥 As the Secretary General of the ESSAI Machine Learning Club and a member of the scientific council, I am deeply involved in community and academic events, continually seeking to foster knowledge exchange and innovation. 
+📢 Feel free to check out my projects and don't hesitate to connect with me on LinkedIn!
 
 * 🌍  I'm based in Tunisia
 * 🖥️  See my portfolio at [MyPortfolio (#not ready yet)](http://MyPF.com)
