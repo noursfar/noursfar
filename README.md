@@ -14,8 +14,6 @@ I'm a Data Science Engineering student currently enrolled in the Engineering Cyc
 * 🌍  I'm based in Tunisia
 * 🖥️  See my portfolio at [MyPortfolio (#not ready yet)](http://MyPF.com)
 * ✉️  You can contact me at [sfarnour72@gmail.com](mailto:sfarnour72@gmail.com)
-* 🚀  I'm currently working on [A computer vision project](http://Myproject.com)
-* 🧠  I'm learning Deep Learning
 * 🤝  I'm open to collaborating on any AI project
 
 <a href="https://www.github.com/noursfar" target="_blank" rel="noreferrer"><img
